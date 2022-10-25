@@ -89,6 +89,8 @@ Original App Design Project - README Template
 
 
 ### [BONUS] Digital Wireframes & Mockups
+![image](https://user-images.githubusercontent.com/25970512/197867055-bef83a0a-3af4-4112-ac0a-b7c6f23db7e7.png)
+
 
 ### [BONUS] Interactive Prototype
 
