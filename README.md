@@ -84,7 +84,7 @@ Original App Design Project - README Template
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="https://i.imgur.com/pkwBY04.jpg" width=600>
+![image](https://user-images.githubusercontent.com/25970512/197866884-ce296858-7f48-4c4b-8efc-48a5c7a2105f.png)
 
 
 
